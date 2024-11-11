@@ -102,7 +102,7 @@ const App = () => {
     <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-indigo-500 via-purple-600 to-pink-500 p-4">
       <div className="weather-container">
         <h1 className="text-3xl md:text-4xl font-bold mb-6 text-center text-blue-700">
-          Weather App
+          Weather Now
         </h1>
 
         <input
